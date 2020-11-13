@@ -1,0 +1,16 @@
+
+data = [
+      "products",
+      "drug_qty_req",
+      "input_capital",
+      "cash",
+      "wire",
+      "suppliers",
+      "cash_cost",
+      "wire_100",
+      "wire_50",
+      "wire_25",
+      "min_sum_per_supplier",
+      "discount_threshold",
+      "discount_percent"
+]

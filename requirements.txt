@@ -1,0 +1,7 @@
+numpy
+pandas
+asyncio
+ortools==7.3.7083
+Cython
+quart
+requests

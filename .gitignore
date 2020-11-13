@@ -1,0 +1,10 @@
+config.py
+__pycache__/
+build
+*.pyc
+.idea/
+*.swp
+venv
+*.csv
+*.xlsx#
+.vscode/

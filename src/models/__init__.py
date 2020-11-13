@@ -1,0 +1,8 @@
+# Protein (g)
+# Calcium (g)
+# Iron (mg)
+# Vitamin A (IU)
+# Thiamine (mg)
+# Riboflavin (mg)
+# Niacin (mg)
+# Ascorbic Acid (mg)
